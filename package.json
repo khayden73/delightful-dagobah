@@ -1,0 +1,14 @@
+{
+  "name": "delightful-dagobah",
+  "version": "1.0.0",
+  "description": "scripting with nodejs, yay",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "keith hayden",
+  "license": "ISC"
+}
